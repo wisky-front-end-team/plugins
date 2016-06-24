@@ -1,0 +1,19 @@
+.ibg-wrapper {
+	height: auto;
+  min-height: 100%;
+  width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}
+
+.ibg-bg {
+  position: absolute;
+}
+
+.ibg-inner {
+	position: relative;
+}
